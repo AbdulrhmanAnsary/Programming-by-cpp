@@ -1,5 +1,5 @@
 # Programming by cpp
-Welcome to the "Programming by cpp" repository! This repository is a collection of cpp codes where you can find various examples and exercises to learn and improve your cpp coding skills, I will put everything i have learned about cpp in this repository so you will see more scripts here on different topics.
+Welcome to the "Programming by cpp" repository! This repository is a collection of cpp codes where you can find various examples and exercises to learn and improve your cpp coding skills,I will put here some of the things I learn in cpp. so you will see more scripts here on different topics.
 ## Description
 ### code 1: functionOfStructure.cpp
 Description: The code (`functionOfStructure`) make a "stInfo" structure then it defines a readInfo procedure of type "stInfo", the "readInfo" procedure take one parameter of type "stInfo" buy reference is called "info" and it use the "info" parameter to access the member of "stInfo" structure to order name, age, country and city from the user, In then we have "printInfo" procedure it also take "info" parameter of type "stInfo" to access the structure members and print informations in the console, In the end wo have the main function it count a "info" variable of type "stInfo" and it call "readInfo" and "printInfo" which are used the variable "info".
@@ -8,7 +8,7 @@ Description: It is very similar to the previous code but the difference in param
 ## Getting Started
 To get started, clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/A1fa1a/Progtamming-by-cpp.git
+git clone https://github.com/AbdulrhmanAnsary/Progtamming-by-cpp.git
 ```
 ## Usage
 Once you've cloned the repository, navigate to the directory and explore the scripts available. Each script is named descriptively to indicate its purpose or the concept it demonstrates.
